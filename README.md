@@ -45,7 +45,7 @@ First published on 27 July 2021, "Encefalogramma" (in english "Encephalogram") r
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more
+Distributed under the Apache License 2.0. See `LICENSE.txt` for more
 information.
 
 ## Credits
